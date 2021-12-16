@@ -66,9 +66,6 @@ client.on("message", async (msg) => {
             return;
     }
 
-    if(msg.content === prefix + 'resume') {
-        
-      }
 });
 
 //Autorização para fazer login no bot
